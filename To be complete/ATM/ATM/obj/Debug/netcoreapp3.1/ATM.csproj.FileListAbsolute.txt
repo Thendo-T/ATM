@@ -1,0 +1,11 @@
+C:\Users\khuth\Desktop\Practice Site\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.exe
+C:\Users\khuth\Desktop\Practice Site\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.deps.json
+C:\Users\khuth\Desktop\Practice Site\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.runtimeconfig.json
+C:\Users\khuth\Desktop\Practice Site\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.runtimeconfig.dev.json
+C:\Users\khuth\Desktop\Practice Site\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.dll
+C:\Users\khuth\Desktop\Practice Site\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.pdb
+C:\Users\khuth\Desktop\Practice Site\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.csprojAssemblyReference.cache
+C:\Users\khuth\Desktop\Practice Site\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.AssemblyInfoInputs.cache
+C:\Users\khuth\Desktop\Practice Site\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.AssemblyInfo.cs
+C:\Users\khuth\Desktop\Practice Site\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.dll
+C:\Users\khuth\Desktop\Practice Site\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.pdb
