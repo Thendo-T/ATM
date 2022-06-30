@@ -1,5 +1,5 @@
 <br/>
-  <h1 align="center">Calculator</h1>
+  <h1 align="center">ATM</h1>
 
   <p align="center">
    An ATM calculative component
